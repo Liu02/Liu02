@@ -2,6 +2,8 @@
 
 I am an AI Researcher and Engineer passionate about **Multimodal Large Language Models (MLLMs)** and **Computer Vision**. My work spans the intersection of vision-language alignment, visual representation learning, and agentic intelligence.
 
+🎓 **Postgraduate Student in Computer Science** at **The University of Hong Kong** *(Currently)*
+
 ---
 
 ## 🔍 Research Interests
@@ -13,12 +15,9 @@ I am an AI Researcher and Engineer passionate about **Multimodal Large Language 
 
 ## 📚 Selected Publications
 
-<!-- Tip: Keep this section updated with your latest preprints or accepted papers -->
-
-### 📄 [Lunar Twins: We Choose to Go to the Moon with Large Language Models]
-- *Accepted at ACL 2025*
+### 📄 Lunar Twins: We Choose to Go to the Moon with Large Language Models
+- *In Findings of the Association for Computational Linguistics (**ACL 2025**)*
 - [**[Paper]**](https://aclanthology.org/2025.findings-acl.69.pdf) 
-
 
 ---
 
@@ -40,8 +39,6 @@ I am an AI Researcher and Engineer passionate about **Multimodal Large Language 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
-
-
 
 ## 📫 Connect with Me
 - **Email**: [hplsxlxy@163.com](mailto:hplsxlxy@163.com)
