@@ -17,7 +17,7 @@ I am an AI Researcher and Engineer passionate about **Multimodal Large Language 
 
 ### 📄 Lunar Twins: We Choose to Go to the Moon with Large Language Models
 - *In Findings of the Association for Computational Linguistics (**ACL 2025**)*
-- [**[Paper]**](https://aclanthology.org/2025.findings-acl.69.pdf) 
+- [**[Paper]**](https://aclanthology.org/2025.findings-acl.69/) 
 
 ---
 
